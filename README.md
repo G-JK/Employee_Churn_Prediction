@@ -24,11 +24,11 @@ Historical data regarding the performance of the employee (Quarterly rating, Mon
 - Gender qualification analysis
 #### Data Wrangling & PreProcessing
 - Split the data into test and train as instructed
-- Target feature retrival from another available feature
+- Target feature retrieval from another available feature
 - Categorical data conversion using pandas
 #### ML Algorithm and Solution Check
-- Support Vecror Machine
+- Support Vector Machine
 - XGBosst Classifier
-- Logitic Regression
+- Logistic Regression
 - Tree based model
 - For ML performance check used Confusion matrix and F1score-macro
